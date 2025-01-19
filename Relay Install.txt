@@ -1,0 +1,11 @@
+Install relay
+
+Take the hot (120 vac) line to com 1 of relay
+Take the nuetral and wire cap to the neutral of other device
+Take the hot from the other devic and secure it in line inc
+
+Take ground from relay to ground to arduino
+Take output pin of arduino to inc of relay
+take vcc to 5v out of arduino
+
+Plug the arduino in and run the code depending on output pin
